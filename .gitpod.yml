@@ -22,3 +22,4 @@ tasks:
 vscode:
   extensions:
     - ContractShark.solidity-lang
+    - teabyii.ayu
